@@ -17,3 +17,14 @@ Being able to control when to send the SPI data/packet in DMA is a big advantage
 1. NUCLEO-G474RE_LL-SPI_DMA - normal SPI DMA setting
 2. NUCLEO-G474RE_LL-SPI-EXT-TRIG-CIRC-DMA - SPI Circular DMA with external interrupt for syncronization 
 
+### Other References :
+
+[SPI Speed test comparison by DMA vs Interrupt](https://github.com/VictorTagayun/SPI_DMA_VS_Interrupt)
+
+*Disclaimer:*
+[Updated Disclaimer](https://github.com/VictorTagayun/GlobalDisclaimer)
+
+*The projects posted here are for my Personal reference, learning and educational purposes only.*
+*The purpose of a certain project may be for testing a module and may be just a part of a whole project.*
+*It should not be used in a production or commercial environment.*
+*Any cause of injury and/or death is the sole responsibility of the user.*
